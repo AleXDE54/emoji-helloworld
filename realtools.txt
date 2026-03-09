@@ -1,4 +1,4 @@
-entry = helloemoji.py
+entry = helloemoji
 requirements =
     emoji
 post_install =
