@@ -1,0 +1,5 @@
+entry = helloemoji.py
+requirements =
+    emoji
+post_install =
+    echo "helloemoji installed! Run 'helloemoji.py' to test."
